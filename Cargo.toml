@@ -3,6 +3,9 @@ name = "signed_cookies"
 version = "0.1.0"
 authors = ["siteshpattanaik"]
 edition = "2018"
+description = "Signed Cookies"
+license = "MIT"
+readme = "README.md"
 
 [dependencies]
 time = "~0.1.39"
