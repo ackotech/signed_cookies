@@ -1,6 +1,6 @@
 [package]
 name = "signed_cookies"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["siteshpattanaik"]
 edition = "2018"
 description = "Signed Cookies"
@@ -12,7 +12,7 @@ include = ["src/**/*", "Cargo.toml"]
 time = "~0.1.39"
 hyper = "~0.11.18"
 hmac-sha1 = "~0.1.3"
-lazy_static = "~1.3.0"
+lazy_static = "1"
 
 [dependencies.failure]
 version = "0.1.1"
